@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="log_in" type="string">Войти</item>
+    <string name="username">Телефон или почта</string>
+    <string name="password">Пароль</string>
+    <string name="congrats_logged_in">Вы вошли!</string>
+</resources>
